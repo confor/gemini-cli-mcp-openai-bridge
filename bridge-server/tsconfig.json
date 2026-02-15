@@ -6,7 +6,8 @@
     "noPropertyAccessFromIndexSignature": false,
     "noUnusedLocals": false,
     "composite": false,
-    "incremental": false
+    "incremental": false,
+    "verbatimModuleSyntax": false
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "dist"],
